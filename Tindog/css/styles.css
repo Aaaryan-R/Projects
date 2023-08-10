@@ -3,6 +3,9 @@ h1 {
   font-size: 3rem;
   font-weight: 900;
 }
+body{
+  overflow-x : hidden;
+}
 .features-icons{
   color: #ef8172;
   width: 60px;
